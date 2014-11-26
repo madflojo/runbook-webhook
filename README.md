@@ -30,3 +30,8 @@ This script simply uses `curl` to make an HTTP POST that updates a `webhook` mon
     -------------------------
     Results: {"status": "failed", "failcount": 0, "result": "success"}
 
+## Examples in the wild
+
+Below is a list of examples of using `cr-webhook.sh` with existing tools.
+
+* [nginx health checker](https://gist.github.com/madflojo/53b221dcfe1b0289e5b4)
